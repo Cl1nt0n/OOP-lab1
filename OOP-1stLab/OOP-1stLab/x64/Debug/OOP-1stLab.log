@@ -1,0 +1,19 @@
+﻿  TV.cpp
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(154,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(154,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(163,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(163,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(183,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(183,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(192,74): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\TV.cpp(192,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  TV.h
+  main.cpp
+C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\OOP-1stLab\main.cpp(27,6): warning C4273: GetConsoleWindow: несовместимое связывание dll
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\consoleapi3.h(167,1):
+  см. предыдущее определение "GetConsoleWindow"
+  
+  Создание кода...
+x64\Debug\TV.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\x64\Debug\OOP-1stLab.lib и объект C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\x64\Debug\OOP-1stLab.exp
+  OOP-1stLab.vcxproj -> C:\Users\igorc\Documents\GitHub\OOP-lab1\OOP-1stLab\x64\Debug\OOP-1stLab.exe
